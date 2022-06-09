@@ -18,7 +18,7 @@ Understanding the creativity cycle is essential for high creativity, good learni
 
 理解创造力周期对于高创造力、良好的学习和快乐的头脑是必不可少的。下面的图片解释了自然创造力周期是如何运作的。有关详细信息，请参阅[创造力周期的神经方面](https://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Neural_aspects_of_the_creativity_cycle)。
 
-![](../.gitbook/assets/natural_creativity_cycle.png)
+![](../assets/natural_creativity_cycle.png)
 
 > **Figure:** In the **natural creativity cycle** there is a regular interplay between the creative processes and the consolidation of knowledge. For high creativity and good learning, those processes must proceed unimpeded. Sleep must come naturally and should never be interrupted. Waking day should also have large blocks protected from interruption, multitasking, and [stress](https://supermemo.guru/wiki/Stress). Starting with the **creative morning explosion**, seeds of activation \(in red\) get gradually converted into a **big idea** that emerges on the next morning. In the meantime, learning, reasoning, and creative activations reshuffle neuronal connections. New connections emerge, get strengthened, weakened, eliminated, or are consolidated for long term storage. All steps are essential for the emergence of the ultimate big idea. For details see: [Neural aspects of the natural creativity cycle](https://supermemo.guru/wiki/Natural_creativity_cycle#Neural_aspects_of_the_creativity_cycle)
 >
@@ -155,7 +155,7 @@ The same idea may be represented by a different set of neurons in a different pa
 
 同样的想法可能由大脑不同部位的一组不同的神经元所代表。所述记忆转移可在单个周期内发生。这就是为什么图中的联想不应该被理解为大脑中特定的神经连接。
 
-![](../.gitbook/assets/natural_creativity_cycle.png)
+![](../assets/natural_creativity_cycle.png)
 
 #### 12.3.1 Waking Day
 
@@ -419,7 +419,7 @@ One good artificial prop in the natural creativity cycle is the proverbial pen a
 
 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的 [SleepChart](https://supermemo.guru/wiki/SleepChart) 使[优化脑力工作的时机](https://supermemo.guru/wiki/Optimizing_the_timing_of_brainwork)变得很容易：
 
-![](../.gitbook/assets/500px-circadian_graph_and_brainwork.gif)
+![](../assets/500px-circadian_graph_and_brainwork.gif)
 
 > **Figure:** **Optimizing the timing of brainwork with respect to the circadian cycle.** This exemplary graph was generated with the help of SleepChart on the basis of 3-year-long daily measurements of a free-running sleep rhythm. The horizontal axis expresses the number of hours from awakening \(note that the free running rhythm period is often longer than 24 hours\). Light blue dots are actual sleep episode measurements with timing on the horizontal, and the length on the left vertical axis. **Homeostatic** sleepiness can roughly be expressed as the **ability to initiate sleep**. Percent of the initiated sleep episodes is painted as a thick blue line \(right-side calibrations of the vertical axis\). Adenosine-related homeostatic sleep propensity increases in proportion to mental effort and can be partially cleared by caffeine, stress, etc. **Circadian** sleepiness can roughly be expressed as **the ability to maintain sleep**. Average length of initiated sleep episodes is painted as a thick red line \(left-side calibrations of the vertical axis\). Mid-day slump in alertness is also circadian, but is biologically different and results in short sleep that does not register as red sleep maintenance peak. **Sleep maintenance** circadian component correlates \(1\) negatively with temperature, ACTH, cortisol, catecholamines, and \(2\) positively with: melatonin and REM sleep propensity. Optimum timing of brainwork requires both low homeostatic and circadian sleepiness. There are two quality alertness blocks during the day: first after the awakening and second after the siesta. Both are marked yellow in the graph. For best learning and best creative results use these yellow blocks. Caffeine can only be used to enhance alertness early in this optimum window \(brown\). Later use will affect sleep \(caffeine half-life is about six hours\). Optimum timing of exercise is not marked as it may vary depending on the optimum timing of zeitgebers \(e.g. early morning for DSPS people and evening for ASPS people\). For more details see: [Biphasic nature of human sleep](https://supermemo.guru/wiki/Biphasic_life).
 >
