@@ -6,3 +6,5 @@
 内容大部分为 DeepL 翻译后编辑，有计划进行重新翻译。
 
 翻译参与地址：https://paratranz.cn/projects/3131
+
+在线阅读地址：https://www.kancloud.cn/ankigaokao/i-would-never-send-my-kids-to-school/content
